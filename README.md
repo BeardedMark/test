@@ -18,9 +18,9 @@
     - Фиксация поиска при прокрутке страницы
     - Подсветка искомых свойств на предметах
 
-| Оригинал | Расширение |
-|-------------|-------------|
 | ![Before](https://custompoe.ru/img/screens/tradeBefore.png) | ![After](https://custompoe.ru/img/screens/tradeAfter.png) |
+|-------------|-------------|
+| Оригинал | Расширение |
 
 ### Установка
 1. [Скачайте](https://github.com/BeardedMark/PoeExtension/archive/refs/heads/main.zip) или клонируйте репозиторий 
