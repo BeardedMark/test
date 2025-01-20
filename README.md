@@ -1,7 +1,7 @@
 # PoeExtension
 Браузерное расширение для сайтов Path of Exile
 
-[Сайт](https://custompoe.ru) • [Форум](https://ru.pathofexile.com/forum/view-thread/3703253) • [Описание](#Описание) • [Установка](#Установка) • [Галерея](#Галерея)
+[Сайт](https://custompoe.ru) • [Форум](https://ru.pathofexile.com/forum/view-thread/3703253) • [Описание](#Описание) • [Сравнение](#Сравнение) • [Установка](#Установка) • [Галерея](#Галерея)
 
 Упрощает взаимодействие с официальными сайтами игры, добавляя полезные функции и улучшая интерфейс
 | ![Preview](https://custompoe.ru/img/screens/tradePreview.png) |
@@ -18,9 +18,10 @@
     - Фиксация поиска при прокрутке страницы
     - Подсветка искомых свойств на предметах
 
-| ![Before](https://custompoe.ru/img/screens/tradeBefore.png) | ![After](https://custompoe.ru/img/screens/tradeAfter.png) |
-|-------------|-------------|
+### Сравнение
 | Оригинал | Расширение |
+|-------------|-------------|
+| ![Before](https://custompoe.ru/img/screens/tradeBefore.png) | ![After](https://custompoe.ru/img/screens/tradeAfter.png) |
 
 ### Установка
 1. [Скачайте](https://github.com/BeardedMark/PoeExtension/archive/refs/heads/main.zip) или клонируйте репозиторий 
