@@ -32,9 +32,9 @@
 4. Убедитесь что расширение включено
 
 ### Галерея
-| ![bookmarks](https://custompoe.ru/img/screens/bookmarks.png) | ![statmarker](https://custompoe.ru/img/screens/statmarker.png) |
+| ![Bookmarks](https://custompoe.ru/img/screens/bookmarks.png) | ![Statmarker](https://custompoe.ru/img/screens/statmarker.png) |
 |-------------|-------------|
-| ![fixedHeader](https://custompoe.ru/img/screens/fixedHeader.png) | ![popup](https://custompoe.ru/img/screens/popup.png) |
+| ![FixedHeader](https://custompoe.ru/img/screens/fixedHeader.png) | ![Popup](https://custompoe.ru/img/screens/popup.png) |
 
 ---
 *Расширение не собирает и не использует ваши личные данные. Все изменения касаются исключительно внешнего вида и удобства работы с сайтом*
