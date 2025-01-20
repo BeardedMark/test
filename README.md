@@ -31,10 +31,5 @@
 4. Нажмите "**Загрузить распакованное расширение**" и выберите папку проекта
 4. Убедитесь что расширение включено
 
-### Галерея
-| ![Bookmarks](https://custompoe.ru/img/screens/bookmarks.png) | ![Statmarker](https://custompoe.ru/img/screens/statmarker.png) |
-|-------------|-------------|
-| ![FixedHeader](https://custompoe.ru/img/screens/fixedHeader.png) | ![Popup](https://custompoe.ru/img/screens/popup.png) |
-
 ---
 *Расширение не собирает и не использует ваши личные данные. Все изменения касаются исключительно внешнего вида и удобства работы с сайтом*
