@@ -2,8 +2,8 @@
 Браузерное расширение для сайтов Path of Exile
 
 Расширение, которое упрощает взаимодействие с официальными сайтами игры, добавляя полезные функции и улучшая интерфейс
-![Preview](https://custompoe.ru/img/screens/tradePreview.png)
 
+| ![Preview](https://custompoe.ru/img/screens/tradePreview.png) |
 ## Содержание
 - [Установка](#установка)
 - [Функции](#функции)
