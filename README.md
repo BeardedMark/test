@@ -1,6 +1,8 @@
-[Сайт проекта](https://custompoe.ru) • [Тема на форуме](https://ru.pathofexile.com/forum/view-thread/3703253)
 # PoeExtension
 Браузерное расширение для сайтов Path of Exile
+
+[Сайт](https://custompoe.ru) • [Форум](https://ru.pathofexile.com/forum/view-thread/3703253) • [Установка](#Установка) • [Описание](#Описание) • [Галерея](#Галерея)
+---
 
 ### Описание
 1. Список быстрых ссылок на фильтры
