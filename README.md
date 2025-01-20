@@ -1,7 +1,7 @@
 # PoeExtension
 Браузерное расширение для сайтов Path of Exile
 
-[Установка](#Установка) • [Функции](#Функции) • [Галерея](#Галерея) • [Ссылки](#Ссылки)
+[Установка](#Установка) • [Описание](#Описание) • [Галерея](#Галерея) • [Ссылки](#Ссылки)
 ---
 
 Упрощает взаимодействие с официальными сайтами игры, добавляя полезные функции и улучшая интерфейс
@@ -19,7 +19,7 @@
 |-------------|-------------|
 | ![Before](https://custompoe.ru/img/screens/tradeBefore.png) | ![After](https://custompoe.ru/img/screens/tradeAfter.png) |
 
-### Функции
+### Описание
 1. Список быстрых ссылок на фильтры
     - Сохранение ссылки на фильтр
     - Очистка сохраненных ссылок
@@ -32,11 +32,10 @@
 
 ### Галерея
 
-| ![bookmarks](https://custompoe.ru/img/screens/bookmarks.png) |
-|-------------|
-| ![statmarker](https://custompoe.ru/img/screens/statmarker.png) |
-| ![fixedHeader](https://custompoe.ru/img/screens/fixedHeader.png) |
-| ![popup](https://custompoe.ru/img/screens/popup.png) |
+| ![bookmarks](https://custompoe.ru/img/screens/bookmarks.png) | ![statmarker](https://custompoe.ru/img/screens/statmarker.png) |
+|-------------|-------------|
+| ![fixedHeader](https://custompoe.ru/img/screens/fixedHeader.png) | ![popup](https://custompoe.ru/img/screens/popup.png) |
+
 
 
 ### Ссылки
