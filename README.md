@@ -3,6 +3,9 @@
 
 Расширение, которое упрощает взаимодействие с официальными сайтами игры, добавляя полезные функции и улучшая интерфейс
 
+![Before](https://custompoe.ru/img/screens/tradeBefore.png)
+![After](https://custompoe.ru/img/screens/tradeAfter.png)
+
 ## Содержание
 - [Установка](#установка)
 - [Функции](#функции)
