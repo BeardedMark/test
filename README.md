@@ -22,7 +22,7 @@
 ### Сравнение
 | Оригинал | Расширение |
 |-------------|-------------|
-| ![Before](https://custompoe.ru/img/screens/tradeBefore.png) | ![Afters](https://custompoe.ru/img/screens/tradeAfter.png) |
+| ![Before](https://custompoe.ru/img/screens/tradeBefore.png) | ![After](https://custompoe.ru/img/screens/tradeAfter.png) |
 
 ### Установка
 1. [Скачайте](https://github.com/BeardedMark/PoeExtension/archive/refs/heads/main.zip) или клонируйте репозиторий 
