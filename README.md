@@ -32,10 +32,14 @@
 
 ### Галерея
 
-|-------------|-------------|
-| ![bookmarks](https://custompoe.ru/img/screens/bookmarks.png) | ![After](https://custompoe.ru/img/screens/tradeAfter.png) |
-|-------------|-------------|
-| ![bookmarks](https://custompoe.ru/img/screens/bookmarks.png) | ![After](https://custompoe.ru/img/screens/tradeAfter.png) |
+| ![bookmarks](https://custompoe.ru/img/screens/bookmarks.png) |
+|-------------|
+| ![statmarker](https://custompoe.ru/img/screens/statmarker.png) |
+|-------------|
+| ![fixedHeader](https://custompoe.ru/img/screens/fixedHeader.png) |
+|-------------|
+| ![popup](https://custompoe.ru/img/screens/popup.png) |
+|-------------|
 
 
 ### Ссылки
