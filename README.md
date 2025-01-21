@@ -32,11 +32,7 @@
 4. Убедитесь что расширение включено
 
 ### Галерея
-| Быстрый поиск | Подсветка свойств |
-|-------------|-------------|
 | ![Bookmarks](https://custompoe.ru/img/screens/trade/bookmarks.png) | ![Statmarker](https://custompoe.ru/img/screens/trade/statmarker.png) |
-
-| Липкий поиск | Настройки расширения |
 |-------------|-------------|
 | ![FixedHeader](https://custompoe.ru/img/screens/trade/fixedHeader.png) | ![Popup](https://custompoe.ru/img/screens/trade/popup.png) |
 
