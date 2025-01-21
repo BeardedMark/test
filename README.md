@@ -9,9 +9,6 @@
 ### Описание
 Упрощает взаимодействие с официальными сайтами игры, добавляя полезные функции и улучшая интерфейс
 
-- [ ] Список быстрых ссылок на фильтры
-    - [x] Сохранение ссылки на фильтр
-
 1. Список быстрых ссылок на фильтры
     - Сохранение ссылки на фильтр
     - Очистка сохраненных ссылок
@@ -38,6 +35,7 @@
 | Быстрый поиск | Подсветка свойств |
 |-------------|-------------|
 | ![Bookmarks](https://custompoe.ru/img/screens/trade/bookmarks.png) | ![Statmarker](https://custompoe.ru/img/screens/trade/statmarker.png) |
+
 | Липкий поиск | Настройки расширения |
 |-------------|-------------|
 | ![FixedHeader](https://custompoe.ru/img/screens/trade/fixedHeader.png) | ![Popup](https://custompoe.ru/img/screens/trade/popup.png) |
