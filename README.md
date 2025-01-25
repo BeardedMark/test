@@ -1,6 +1,9 @@
 # PoeExtension
 Браузерное расширение для сайтов Path of Exile
 
+| Оригинал | Расширение |
+|-------------|-------------|
+| ![Before](https://custompoe.ru/img/screens/trade/tradeBefore.png) | ![After](https://custompoe.ru/img/screens/trade/tradeAfter.png) |
 [Установка](#Установка)
  • [Функционал](#Функционал)
  • [Приемущества](#Приемущества)
@@ -10,9 +13,6 @@
 ## Описание
 **PoeExtension** — это расширение, которое упрощает взаимодействие с официальными сайтами игры [Path of Exile](https://ru.pathofexile.com). Оно добавляет полезные функции, улучшает интерфейс и оптимизирует работу с сайтом
 
-| Оригинал | Расширение |
-|-------------|-------------|
-| ![Before](https://custompoe.ru/img/screens/trade/tradeBefore.png) | ![After](https://custompoe.ru/img/screens/trade/tradeAfter.png) |
 
 ### Основные возможности
 - Улучшение интерфейса страниц
