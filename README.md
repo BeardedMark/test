@@ -1,16 +1,17 @@
 # PoeExtension
 Браузерное расширение для сайтов Path of Exile
 
-Оглавление:
+[Описание](#Описание) : 
+[Приемущества](#Приемущества) : 
+[Функционал](#Функционал) : 
+[Установка](#Установка)
+
 [Сайт](https://custompoe.ru)
 [Форум](https://ru.pathofexile.com/forum/view-thread/3703253)
-[Описание](#Описание)
-[Сравнение](#Сравнение)
-[Установка](#Установка)
-[Галерея](#Галерея)
 
-| ![Preview](https://custompoe.ru/img/screens/trade/tradePreview.png) |
-|-------------|
+| Оригинал | Расширение |
+|-------------|-------------|
+| ![Before](https://custompoe.ru/img/screens/trade/tradeBefore.png) | ![After](https://custompoe.ru/img/screens/trade/tradeAfter.png) |
 
 ### Описание
 **PoeExtension** — это расширение, которое упрощает взаимодействие с официальными сайтами игры [Path of Exile](https://ru.pathofexile.com). Оно добавляет полезные функции, улучшает интерфейс и оптимизирует работу с сайтом
@@ -42,10 +43,6 @@
 - Убрана белая обводка кнопок при нажатии
 - Добавлены иконки сообщений и блокировки
 
-### Сравнение
-| Оригинал | Расширение |
-|-------------|-------------|
-| ![Before](https://custompoe.ru/img/screens/trade/tradeBefore.png) | ![After](https://custompoe.ru/img/screens/trade/tradeAfter.png) |
 
 ### Установка
 1. [Скачайте](https://github.com/BeardedMark/PoeExtension/archive/refs/heads/main.zip) или клонируйте репозиторий 
@@ -53,11 +50,6 @@
 3. Включите режим разработчика *(справа вверху)*
 4. Нажмите "**Загрузить распакованное расширение**" и выберите папку проекта
 4. Убедитесь что расширение включено
-
-### Галерея
-| ![Bookmarks](https://custompoe.ru/img/screens/trade/bookmarks.png) | ![Statmarker](https://custompoe.ru/img/screens/trade/statmarker.png) |
-|-------------|-------------|
-| ![FixedHeader](https://custompoe.ru/img/screens/trade/fixedHeader.png) | ![Popup](https://custompoe.ru/img/screens/trade/popup.png) |
 
 ---
 *Расширение не собирает и не использует ваши личные данные. Все изменения касаются исключительно внешнего вида и удобства работы с сайтом*
