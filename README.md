@@ -7,9 +7,6 @@
  • [Установка](#Установка)
 ---
 
-[Сайт](https://custompoe.ru)
- • [Форум](https://ru.pathofexile.com/forum/view-thread/3703253)
-
 | Оригинал | Расширение |
 |-------------|-------------|
 | ![Before](https://custompoe.ru/img/screens/trade/tradeBefore.png) | ![After](https://custompoe.ru/img/screens/trade/tradeAfter.png) |
@@ -52,5 +49,8 @@
 4. Нажмите "**Загрузить распакованное расширение**" и выберите папку проекта
 4. Убедитесь что расширение включено
 
+## Ссылки
+- [Сайт](https://custompoe.ru)
+- [Форум](https://ru.pathofexile.com/forum/view-thread/3703253)
 ---
 *Расширение не собирает и не использует ваши личные данные. Все изменения касаются исключительно внешнего вида и удобства работы с сайтом*
